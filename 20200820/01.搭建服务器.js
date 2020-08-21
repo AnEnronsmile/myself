@@ -11,7 +11,7 @@
 */
 
 // 先引入模块
-const http = require('http');
+/* const http = require('http');
 const fs = require('fs');
 const path=require('path');
 const filpath = path.resolve(__dirname,'./20200803/index.html')
@@ -56,4 +56,4 @@ sever.listen(port,host,(err)=>{
         return;
     }
     console.log(`服务器启动成功 请访问 http://${host}:${port}`);
-})
+}) */
